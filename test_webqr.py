@@ -1,7 +1,7 @@
 from base64 import b64decode
 from unittest import TestCase
 
-from webqr import app
+from app import app
 
 
 class Test(TestCase):
